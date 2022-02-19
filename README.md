@@ -1,6 +1,9 @@
 # DragTableView-Using-DiffableDataSource
 
 
+![화면 기록 2022-02-19 오후 10 48 42](https://user-images.githubusercontent.com/58776221/154803957-20b926e4-5571-44b4-b376-ae7f24efb8bc.gif)
+
+
 ## Reference
 
 * https://www.swiftjectivec.com/tableview-diffable-datasource-drag-to-reorder/
